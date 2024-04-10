@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SeoudBank.BussniessLogic\SeoudBank.BussniessLogic.csproj" />
+    <ProjectReference Include="..\SeoudBank.Entites\SeoudBank.Entites.csproj" />
+    <ProjectReference Include="..\SeoudBank.Exceptions\SeoudBank.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

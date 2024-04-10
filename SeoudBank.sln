@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Presenation", "SeoudBank\SeoudBank.Presenation.csproj", "{742287DD-B7EC-42C1-8353-2B25DDB720D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Entites", "SeoudBank.Entites\SeoudBank.Entites.csproj", "{34BB642E-A67B-47EA-AFA4-062F9523B11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.BussniessLogic", "SeoudBank.BussniessLogic\SeoudBank.BussniessLogic.csproj", "{A31FA430-E851-47CB-803B-48ABDB47C499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Exceptions", "SeoudBank.Exceptions\SeoudBank.Exceptions.csproj", "{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.DataInteraction", "SeoudBank.DataInteraction\SeoudBank.DataInteraction.csproj", "{786BEC0D-5D49-4819-B988-619EF29FBBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Configuration", "SeoudBank.Configuration\SeoudBank.Configuration.csproj", "{3BCED544-A7A6-43A3-835C-F7A622022954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742287DD-B7EC-42C1-8353-2B25DDB720D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742287DD-B7EC-42C1-8353-2B25DDB720D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742287DD-B7EC-42C1-8353-2B25DDB720D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742287DD-B7EC-42C1-8353-2B25DDB720D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BB642E-A67B-47EA-AFA4-062F9523B11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BB642E-A67B-47EA-AFA4-062F9523B11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BB642E-A67B-47EA-AFA4-062F9523B11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BB642E-A67B-47EA-AFA4-062F9523B11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31FA430-E851-47CB-803B-48ABDB47C499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31FA430-E851-47CB-803B-48ABDB47C499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31FA430-E851-47CB-803B-48ABDB47C499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31FA430-E851-47CB-803B-48ABDB47C499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786BEC0D-5D49-4819-B988-619EF29FBBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786BEC0D-5D49-4819-B988-619EF29FBBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786BEC0D-5D49-4819-B988-619EF29FBBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786BEC0D-5D49-4819-B988-619EF29FBBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCED544-A7A6-43A3-835C-F7A622022954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCED544-A7A6-43A3-835C-F7A622022954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCED544-A7A6-43A3-835C-F7A622022954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCED544-A7A6-43A3-835C-F7A622022954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD56B335-9FDA-478A-BA75-B25DB1F09CA1}
+	EndGlobalSection
+EndGlobal
