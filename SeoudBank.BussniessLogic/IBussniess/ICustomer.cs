@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SeoudBank.BussniessLogic.IBussniess
 {
-    internal interface ICustomer
+    public interface ICustomerLogic
     {
         List<Customer> GetCustomers();
         List<Customer> GetCustomerWithCondition(Predicate<Customer> customer);

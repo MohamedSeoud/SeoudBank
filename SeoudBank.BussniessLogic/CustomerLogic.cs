@@ -6,7 +6,7 @@ using SeoudBank.Exceptions;
 
 namespace SeoudBank.BussniessLogic
 {
-    public class CustomerLogic : ICustomer
+    public class CustomerLogic : ICustomerLogic
     {
         private ICustomerContext _customerContext;
         public CustomerLogic()
