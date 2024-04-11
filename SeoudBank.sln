@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.BussniessLogic", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Exceptions", "SeoudBank.Exceptions\SeoudBank.Exceptions.csproj", "{4665BCC5-5D2F-450C-89F5-5EEE7949DB60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.DataInteraction", "SeoudBank.DataInteraction\SeoudBank.DataInteraction.csproj", "{786BEC0D-5D49-4819-B988-619EF29FBBD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.DataAccess", "SeoudBank.DataInteraction\SeoudBank.DataAccess.csproj", "{786BEC0D-5D49-4819-B988-619EF29FBBD8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeoudBank.Configuration", "SeoudBank.Configuration\SeoudBank.Configuration.csproj", "{3BCED544-A7A6-43A3-835C-F7A622022954}"
 EndProject

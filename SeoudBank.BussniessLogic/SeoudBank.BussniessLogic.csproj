@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SeoudBank.Configuration\SeoudBank.Configuration.csproj" />
-    <ProjectReference Include="..\SeoudBank.DataInteraction\SeoudBank.DataInteraction.csproj" />
+    <ProjectReference Include="..\SeoudBank.DataInteraction\SeoudBank.DataAccess.csproj" />
     <ProjectReference Include="..\SeoudBank.Entites\SeoudBank.Entites.csproj" />
     <ProjectReference Include="..\SeoudBank.Exceptions\SeoudBank.Exceptions.csproj" />
   </ItemGroup>
